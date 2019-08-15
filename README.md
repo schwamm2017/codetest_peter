@@ -1,2 +1,3 @@
 # codetest_peter
-front end dev code test
+Front-end dev code test
+Please download the zipped file, thank you
